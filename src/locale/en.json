@@ -1,0 +1,6 @@
+{
+  "title": "The current browser language is {browserLocale}.",
+  "menu": "Choose a language",
+  "ko": "Korean",
+  "en": "Englash"
+}
